@@ -1,4 +1,4 @@
-# Awesome Causality Reading List 
+# Awesome Causal Discovery
 
 An awesome list of Causality and Machine Learning related papers, books and other resources. Currently, this list
 is focused on Causal Discovery and Causal Representation Learning, starting from classical ones. More causality-related topics coming soon!
@@ -14,7 +14,7 @@ is focused on Causal Discovery and Causal Representation Learning, starting from
 - [Causality](http://bayes.cs.ucla.edu/BOOK-2K/)
 - [Causal Inference in Statistics: A Primer](https://www.wiley.com/en-us/Causal+Inference+in+Statistics%3A+A+Primer-p-9781119186847)
 - [Elements of Causal Inference](https://library.oapen.org/bitstream/id/056a11be-ce3a-44b9-8987-a6c68fce8d9b/11283.pdf)
-- [**Causation, Prediction and Search**](https://www.researchgate.net/publication/242448131_Causation_Prediction_and_Search)
+- [Causation, Prediction and Search](https://www.researchgate.net/publication/242448131_Causation_Prediction_and_Search)
 
 ## [Papers]()
 
@@ -22,7 +22,7 @@ is focused on Causal Discovery and Causal Representation Learning, starting from
 - [Towards Causal Representation Learning](https://arxiv.org/abs/2102.11107)
 - [Causality for Machine Learning](https://arxiv.org/abs/1911.10500)
 - [Causal Machine Learning: A Survey and Open Problems](https://arxiv.org/abs/2206.15475)
-- [**Review of Causal Discovery Methods Based on Graphical Models**](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)
+- [Review of Causal Discovery Methods Based on Graphical Models](https://www.frontiersin.org/articles/10.3389/fgene.2019.00524/full)
 - [Causal discovery and inference: concepts and recent methodological advances](https://applied-informatics-j.springeropen.com/articles/10.1186/s40535-016-0018-x)
 - [Learning causality and causality-related learning: some recent progress](https://academic.oup.com/nsr/article/5/1/26/4638533)
 - [Causal Inference for Time series Analysis: Problems, Methods and Evaluation](https://arxiv.org/pdf/2102.05829.pdf)
